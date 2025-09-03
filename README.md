@@ -1,4 +1,5 @@
 # AllTagBot - Telegram News Bot
+(reuploaded Sep.23.2024)
 
 My attempt to build a Telegram bot using .NET. The bot delivers news updates and provides user registration functionality.
 This is a prototype version meant to demonstrate the core architecture and functionality.
